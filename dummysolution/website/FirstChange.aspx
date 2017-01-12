@@ -3,6 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
 
     <asp:BulletedList ID="BulletedList1" runat="server"></asp:BulletedList>
+    <asp:CheckBox ID="CheckBox1" runat="server" />
 
 </asp:Content>
 
