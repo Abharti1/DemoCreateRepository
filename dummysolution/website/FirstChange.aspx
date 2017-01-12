@@ -4,6 +4,7 @@
 
     <asp:BulletedList ID="BulletedList1" runat="server"></asp:BulletedList>
     <asp:CheckBox ID="CheckBox1" runat="server" />
-
+    <asp:DropDownList ID="DropDownList1" runat="server"></asp:DropDownList>
 </asp:Content>
+
 
